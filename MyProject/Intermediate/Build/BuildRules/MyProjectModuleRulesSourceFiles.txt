@@ -1,0 +1,3 @@
+C:\rep\BattleTank\MyProject\Source\MyProject\MyProject.Build.cs
+C:\rep\BattleTank\MyProject\Source\MyProject.Target.cs
+C:\rep\BattleTank\MyProject\Source\MyProjectEditor.Target.cs
